@@ -1,0 +1,1 @@
+{"authors":["xlr100"],"name":"Door Password","version":1,"addons":[],"description":"A script that asks you for a password when you place a door, when someone else tries to open that door they will need to type the same code in chat. The code consists of 4 numbers from 0-9."}
